@@ -6,13 +6,15 @@
   "autocreatedb": true,
   "approval": false,
   "premium": false,
-  "email": "sanjivfresh@gmail.com",
-  "adminpass": "ryukodev",
-  "prefix": "-",
+  "email": "serverbot81@gmail.com",
+  "adminpass": "TANVIR-143",
+  "prefix": ".",
   "operators": [
-    "100091459940475"
+    "100032407831557"
   ],
-  "admins": [],
+  "admins": [
+"100032407831557"
+],
   "haspremiumcmd": [],
   "approvedgroups": [],
   "disabledcmds": [],
